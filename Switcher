@@ -1,1 +1,1 @@
-prnt("File Is Protected!")
+print("File Is Protected!")
